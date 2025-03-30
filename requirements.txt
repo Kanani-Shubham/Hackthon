@@ -13,3 +13,4 @@ requests
 Werkzeug
 Flask-Migrate
 WTForms
+gunicorn
